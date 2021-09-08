@@ -1,4 +1,2 @@
-# proyecto22021AS2G6
-## Prueba pull request
-### Prueba1
-#### Prueba 2
+# Proyecto .NET C#
+## Aplicación de Escritorio para un negocio de polideportivo.
